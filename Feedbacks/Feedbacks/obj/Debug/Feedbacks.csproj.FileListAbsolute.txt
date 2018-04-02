@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\bin\Debug\Feedbacks.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\bin\Debug\Feedbacks.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\bin\Debug\Feedbacks.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\obj\Debug\Feedbacks.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\obj\Debug\Feedbacks.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\obj\Debug\Feedbacks.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\obj\Debug\Feedbacks.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\obj\Debug\Feedbacks.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\obj\Debug\Feedbacks.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\Feedbacks\Feedbacks\obj\Debug\Feedbacks.csproj.ResolveComReference.cache
